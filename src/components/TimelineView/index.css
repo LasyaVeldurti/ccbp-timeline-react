@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  width: 80%;
+  margin: auto;
+  font-family: roboto;
+}
+.timeline-heading {
+  text-align: center;
+}
+.span-element {
+  color: #0967d2;
+}

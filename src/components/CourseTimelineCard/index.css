@@ -1,0 +1,44 @@
+/* Write your CSS here */
+
+.course-container {
+  padding: 12px;
+  width: 400px;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+
+  flex-wrap: wrap;
+}
+.course-title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.course-duration {
+  font-weight: bold;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.tag-list-ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 4;
+}
+.tag-btn {
+  padding: 10px;
+  margin-right: 12px;
+  border-radius: 8px;
+  border-style: none;
+
+  color: #1e293b;
+  font-weight: bold;
+}
+.tag-item {
+}
+.icon-container {
+  display: flex;
+}
+.clock-icon {
+  margin-top: 18px;
+}
